@@ -1,0 +1,18 @@
+
+
+{
+    "CompanyName":"苏州帕诺米克生物医药科技有限公司",     
+    "CompanyAliasName":"帕诺米克",                      
+    "ProjectName":"转录组测序分析",    
+    "ItemNo":"HT2021051344003",                      
+    "CustomerName":"林如秦",                               
+    "UnitAddress":"华南农业大学",                                
+    "Received":"姚俊",                                  
+    "ReceivedDate":"2021-07-07",
+    "replaceFields":[ 
+        { "key":"派森诺生物科技有限公司","value":"苏州帕诺米克生物医药科技有限公司"} ,
+        { "key":"派森诺生物科技股份有限公司","value":"苏州帕诺米克生物医药科技有限公司"} ,
+        { "key":"派森诺","value":"帕诺米克" }
+    ]
+
+}

@@ -1,0 +1,18 @@
+
+
+{
+    "CompanyName":"苏州帕诺米克生物医药科技有限公司",     
+    "CompanyAliasName":"帕诺米克",                      
+    "ProjectName":"16s扩增子测序",                      
+    "ItemNo":"xxxxxxxxx",                      
+    "CustomerName":"XXX",                               
+    "UnitAddress":"XXX",                                
+    "Received":"姚俊",                                  
+    "ReceivedDate":"2021-07-14",
+    "replaceFields":[ 
+        { "key":"天津诺禾致源生物信息科技有限公司","value":"苏州帕诺米克生物医药科技有限公司"} ,
+        { "key":"诺禾致源","value":"帕诺米克" },
+        { "key":"诺禾","value":"帕诺米克" }
+    ]
+
+}
